@@ -65,14 +65,5 @@ This project involves the creation, transformation, and advanced querying of a *
 * Incorporate NLP models for auto-tagging patient complaints and symptoms.
 * Add anomaly detection for suspicious billing activity.
 
----
-
-### 📁 Sample Query Output
-
-```sql
-CALL Patient_info_with_Conditions('2DC29');
-SELECT CalculateMinTimeInHospital();
-SELECT * FROM Medical_Records LIMIT 5;
-```
 
 
