@@ -51,7 +51,7 @@ This project involves the creation, transformation, and advanced querying of a *
 
 ### 🛠️ Tools & Technologies
 
-* **SQL (MySQL dialect)**
+* **SQL Workbench (MySQL)**
 * **Stored Procedures, Functions, Triggers**
 * **Automated Events**
 * **Relational database design and normalization**
